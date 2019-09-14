@@ -1,6 +1,6 @@
 <?php
 
-namespace elphis\Utils;
+namespace Elphis\Utils;
 
 use RuntimeException;
 use Swoole\Process;

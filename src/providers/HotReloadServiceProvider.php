@@ -1,10 +1,10 @@
 <?php
 
-namespace elphis\Providers;
+namespace Elphis\Providers;
 
-use elphis\Providers\ServiceProvider;
-use elphis\Utils\Config;
-use elphis\Utils\HotReloader;
+use Elphis\Providers\ServiceProvider;
+use Elphis\Utils\Config;
+use Elphis\Utils\HotReloader;
 use Swoole\Http\Server;
 
 class HotReloadServiceProvider extends ServiceProvider
