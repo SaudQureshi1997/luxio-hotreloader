@@ -1,6 +1,6 @@
 {
-    "name": "luxio/hotreloader",
-    "description": "Hot Reloader for Luxio - Swoole based Micro-framework.",
+    "name": "elphis/hotreloader",
+    "description": "Hot Reloader for elphis - Swoole based Micro-framework.",
     "type": "library",
     "authors": [{
             "name": "Akshay Khale",
@@ -13,8 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Luxio\\Utils\\": "src/",
-            "Luxio\\Providers\\": "providers/"
+            "elphis\\": "src/"
         }
     },
     "require": {

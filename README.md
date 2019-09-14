@@ -1,2 +1,2 @@
-# luxio-logger
-Logger library for Luxio Framework
+# elphis-logger
+Logger library for elphis Framework
