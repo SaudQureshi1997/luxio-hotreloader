@@ -1,6 +1,6 @@
 <?php
 
-namespace Luxio\Utils\Providers;
+namespace Luxio\Providers;
 
 use Luxio\Providers\ServiceProvider;
 use Luxio\Utils\Config;

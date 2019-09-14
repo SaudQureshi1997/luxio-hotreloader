@@ -14,7 +14,7 @@
     "autoload": {
         "psr-4": {
             "Luxio\\Utils\\": "src/",
-            "Luxio\\Utils\\Providers\\": "provider/"
+            "Luxio\\Providers\\": "providers/"
         }
     },
     "require": {
